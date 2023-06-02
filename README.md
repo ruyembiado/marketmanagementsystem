@@ -16,8 +16,8 @@ Manage Vendor Registration: The market administrator could approve or reject ven
 
 Vendor:<br>
 Manage Stall:The vendor could add and update stalls.<br>
-Manage Product Records: The vendor could add, update and delete products.<br>
-Manage Customer Reservation: The vendor could accept and reject customer reservations.<br>
+Manage Product Records: The vendor could add, update, and delete products.<br>
+Manage Customer Reservations: The vendor could accept and reject customer reservations.<br>
 
 Customer:<br>
 View Map: The customer could view the market map on the reservation page.<br>
