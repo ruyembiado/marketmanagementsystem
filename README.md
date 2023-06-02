@@ -3,7 +3,7 @@
 
 ![market](https://github.com/ruyembiado/marketmanagementsystem/assets/114800689/9a768e6c-9a3c-4c6b-8760-1d15328d56f1)
 
-# Functions/Features of the System
+## Functions/Features of the System
 Admin: <br>
 Create Market: The administrator could create a market where vendors could register and showcase their products.<br>
 Manage Market Admin Registration: The administrator could approve or reject market administrator registrations.<br>
